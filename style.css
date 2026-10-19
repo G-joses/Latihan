@@ -1,7 +1,11 @@
 body {
-    background: #0000;
+    background: #000000;
 }
 
 h1 {
     color: #ffffff;
+}
+
+p {
+    color: #ff0000;
 }
